@@ -1,6 +1,6 @@
 # IRCTC Train Ticket Booking System (Java Backend)
 
-A console-based Java backend project simulating train ticket booking workflows such as Sign Up, Login, Search Trains, Book Seats, and Cancel Bookings.
+Developed a Core Java backend project for an IRCTC-like train ticket booking system, implementing Sign Up, Login, Train Search, Seat Booking, and Booking Cancellation through a menu-driven console interface.
 
 ## Tech Stack
 - Core Java
